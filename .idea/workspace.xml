@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70a0d1b1-4d5c-4d42-a215-aae335706c08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="70a0d1b1-4d5c-4d42-a215-aae335706c08" name="Changes" comment="rangeChar">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/For Loop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Arrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Data Types &amp; Variable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Data Types &amp; Variable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Enumeration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Enumeration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Expressions and Statements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Expressions and Statements.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/If expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/If expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Range.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Range.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/When Expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/When Expressions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/While and Do While.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/While and Do While.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +46,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RangeKt">
-    <configuration name="Data_Types___VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Types___VariableKt" />
+  <component name="RunManager" selected="Kotlin.For_LoopKt">
+    <configuration name="EnumerationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.EnumerationKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumerationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.EnumerationKt" />
+    <configuration name="For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.For_LoopKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.For_LoopKt" />
         <item itemvalue="Kotlin.RangeKt" />
         <item itemvalue="Kotlin.While_and_Do_WhileKt" />
         <item itemvalue="Kotlin.EnumerationKt" />
         <item itemvalue="Kotlin.FunctionKt" />
-        <item itemvalue="Kotlin.Data_Types___VariableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655364938896</updated>
     </task>
+    <task id="LOCAL-00001" summary="rangeChar">
+      <created>1655473840585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655473840585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rangeChar" />
+    <option name="LAST_COMMIT_MESSAGE" value="rangeChar" />
   </component>
 </project>
