@@ -1,4 +1,3 @@
-package com.kotlin.basic
-
-class App {
+fun main() {
+    println("Hello World!")
 }

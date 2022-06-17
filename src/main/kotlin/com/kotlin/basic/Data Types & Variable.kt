@@ -1,4 +1,9 @@
-package com.kotlin.basic
+//fun main() {
+//    val firstName = "Aldi"
+//    val lastName = "Nugraha"
+//    print(firstName + lastName)
+//}
 
-class `Data Types & Variable` {
+fun main() {
+
 }
