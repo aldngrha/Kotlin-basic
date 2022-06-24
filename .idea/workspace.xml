@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70a0d1b1-4d5c-4d42-a215-aae335706c08" name="Changes" comment="rangeChar">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Break and Continue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Data Class.kt" afterDir="false" />
+    <list default="true" id="70a0d1b1-4d5c-4d42-a215-aae335706c08" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.attach_pid13568" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Collections Operations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Extensions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Fold, Drop, Take.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Function Inside Fucntion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Function Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/High-Order-Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Kotlin Standard Library.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Lambda with receiver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Member References.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Named Argument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Nullable Receiver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Recursion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Scope Function With Lambda Argumment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Sllice, Distinct, Chuncked.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Squences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Vararg (Variable Argument).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Vararg vs Array&lt;T&gt;.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/For Loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/For Loop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Data Class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/kotlin/basic/Data Class.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -44,41 +62,42 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Data_ClassKt">
-    <configuration name="Break_and_ContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Break_and_ContinueKt" />
+  <component name="RunManager" selected="Kotlin.Sllice__Distinct__ChunckedKt">
+    <configuration name="Fold__Drop__TakeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Fold__Drop__TakeKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Data_ClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Data_ClassKt" />
+    <configuration name="Function_Inside_FucntionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Function_Inside_FucntionKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.For_LoopKt" />
+    <configuration name="Member_ReferencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Member_ReferencesKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.RangeKt" />
+    <configuration name="Scope_Function_With_Lambda_ArgummentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Scope_Function_With_Lambda_ArgummentKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_and_Do_WhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.While_and_Do_WhileKt" />
+    <configuration name="Sllice__Distinct__ChunckedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.basic.Sllice__Distinct__ChunckedKt" />
       <module name="Kotlin-basic.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Data_ClassKt" />
-        <item itemvalue="Kotlin.Break_and_ContinueKt" />
-        <item itemvalue="Kotlin.For_LoopKt" />
-        <item itemvalue="Kotlin.RangeKt" />
-        <item itemvalue="Kotlin.While_and_Do_WhileKt" />
+        <item itemvalue="Kotlin.Sllice__Distinct__ChunckedKt" />
+        <item itemvalue="Kotlin.Fold__Drop__TakeKt" />
+        <item itemvalue="Kotlin.Function_Inside_FucntionKt" />
+        <item itemvalue="Kotlin.Member_ReferencesKt" />
+        <item itemvalue="Kotlin.Scope_Function_With_Lambda_ArgummentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655473840585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1655555484246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655555484246</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +151,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="rangeChar" />
-    <option name="LAST_COMMIT_MESSAGE" value="rangeChar" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
